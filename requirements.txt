@@ -1,0 +1,6 @@
+langchain~=0.1.12
+unstructured # Document loading
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+python-dotenv~=1.0.1
