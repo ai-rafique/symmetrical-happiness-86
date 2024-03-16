@@ -1,4 +1,5 @@
 langchain~=0.1.12
+langchain-community # recommended langchain module for some OpenAI 
 unstructured # Document loading
 chromadb # Vector storage
 openai # For embeddings
